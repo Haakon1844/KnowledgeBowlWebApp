@@ -1,0 +1,1262 @@
+[
+ {
+  "id": "packet-001",
+  "group": "Mixed topics (from the practice packet)",
+  "category": "European Rivers",
+  "question": "Which European river flows from Germany through Vienna, Austria, before emptying into the Black Sea?",
+  "options": [
+   "Danube",
+   "Rhine",
+   "Elbe",
+   "Oder"
+  ]
+ },
+ {
+  "id": "packet-002",
+  "group": "Mixed topics (from the practice packet)",
+  "category": "Wars",
+  "question": "The Crimean War, which began in 1853, pitted Russia against which empire and its allies (including Britain and France)?",
+  "options": [
+   "Ottoman Empire",
+   "Austro-Hungarian Empire",
+   "Persian Empire",
+   "Mughal Empire"
+  ]
+ },
+ {
+  "id": "packet-003",
+  "group": "Mixed topics (from the practice packet)",
+  "category": "Civil Unrest",
+  "question": "The 1992 Los Angeles riots were sparked by the acquittal of police officers in the videotaped beating of whom?",
+  "options": [
+   "Rodney King",
+   "Emmett Till",
+   "Amadou Diallo",
+   "Ron Settles"
+  ]
+ },
+ {
+  "id": "packet-004",
+  "group": "Mixed topics (from the practice packet)",
+  "category": "Chemistry",
+  "question": "In a neutralization reaction, an acid reacts with a base to form water and what else?",
+  "options": [
+   "A salt",
+   "A gas",
+   "A metal",
+   "An alcohol"
+  ]
+ },
+ {
+  "id": "packet-005",
+  "group": "Mixed topics (from the practice packet)",
+  "category": "Thermodynamics",
+  "question": "Which law of thermodynamics states that it is impossible to cool a body all the way to absolute zero?",
+  "options": [
+   "Third law",
+   "Zeroth law",
+   "First law",
+   "Second law"
+  ]
+ },
+ {
+  "id": "packet-006",
+  "group": "Mixed topics (from the practice packet)",
+  "category": "Human Senses",
+  "question": "Equilibrioception, the sense that lets you maintain balance, relies primarily on structures in which organ?",
+  "options": [
+   "Inner ear",
+   "Eyes",
+   "Skin",
+   "Lungs"
+  ]
+ },
+ {
+  "id": "packet-007",
+  "group": "Mixed topics (from the practice packet)",
+  "category": "Colonial Legislation",
+  "question": "Maryland’s 1649 “Act Concerning Religion,” often called the Toleration Act, was notable because it provided for what?",
+  "options": [
+   "Freedom of worship",
+   "Abolition of slavery",
+   "Universal male suffrage",
+   "Trial by jury"
+  ]
+ },
+ {
+  "id": "packet-008",
+  "group": "Mixed topics (from the practice packet)",
+  "category": "Direct Variation",
+  "question": "If y varies directly as x, and y = 10 when x = 7, what is the constant of proportionality?",
+  "options": [
+   "10/7",
+   "7/10",
+   "17",
+   "70"
+  ]
+ },
+ {
+  "id": "packet-009",
+  "group": "Mixed topics (from the practice packet)",
+  "category": "Modals",
+  "question": "Which of the following is NOT one of the three modal auxiliary verbs that begin with the letter “m”?",
+  "options": [
+   "move",
+   "may",
+   "might",
+   "must"
+  ]
+ },
+ {
+  "id": "packet-010",
+  "group": "Mixed topics (from the practice packet)",
+  "category": "Art History",
+  "question": "William Blake mockingly nicknamed which 18th-century English portrait painter “Sir Sloshua”?",
+  "options": [
+   "Joshua Reynolds",
+   "Thomas Gainsborough",
+   "George Romney",
+   "John Constable"
+  ]
+ },
+ {
+  "id": "packet-011",
+  "group": "Mixed topics (from the practice packet)",
+  "category": "Seas",
+  "question": "The Caspian Sea lies between which two countries?",
+  "options": [
+   "Azerbaijan and Turkmenistan",
+   "Iran and Iraq",
+   "Turkey and Greece",
+   "Russia and Ukraine"
+  ]
+ },
+ {
+  "id": "packet-012",
+  "group": "Mixed topics (from the practice packet)",
+  "category": "Cosmic Rays",
+  "question": "Nearly 90% of cosmic rays entering Earth’s atmosphere consist of which subatomic particles?",
+  "options": [
+   "Protons",
+   "Electrons",
+   "Neutrons",
+   "Positrons"
+  ]
+ },
+ {
+  "id": "packet-013",
+  "group": "Mixed topics (from the practice packet)",
+  "category": "Canadian Geography",
+  "question": "Wood Buffalo National Park, Canada’s largest national park, is located mainly in which province?",
+  "options": [
+   "Alberta",
+   "Saskatchewan",
+   "Manitoba",
+   "British Columbia"
+  ]
+ },
+ {
+  "id": "packet-014",
+  "group": "Mixed topics (from the practice packet)",
+  "category": "Novels",
+  "question": "Bernard Malamud’s novel about a gifted young athlete wounded by a deranged woman obsessed with the sport’s best player is titled what?",
+  "options": [
+   "The Natural",
+   "Shoeless Joe",
+   "The Boys of Summer",
+   "Field of Dreams"
+  ]
+ },
+ {
+  "id": "packet-015",
+  "group": "Mixed topics (from the practice packet)",
+  "category": "Geometric Solids",
+  "question": "Which Platonic solid is the only one with no parallel faces?",
+  "options": [
+   "Tetrahedron",
+   "Cube",
+   "Octahedron",
+   "Dodecahedron"
+  ]
+ },
+ {
+  "id": "packet-016",
+  "group": "Mixed topics (from the practice packet)",
+  "category": "Psychological Terms",
+  "question": "An involuntary, repetitive muscle movement such as eye twitching or blinking is medically known as what?",
+  "options": [
+   "A tic",
+   "A spasm",
+   "A seizure",
+   "A tremor"
+  ]
+ },
+ {
+  "id": "packet-017",
+  "group": "Mixed topics (from the practice packet)",
+  "category": "U.S. Civics",
+  "question": "Besides the 435 voting House members from the states, which territory sends a nonvoting delegate, alongside D.C., American Samoa, and Guam?",
+  "options": [
+   "U.S. Virgin Islands",
+   "Northern Mariana Islands",
+   "Marshall Islands",
+   "Midway Islands"
+  ]
+ },
+ {
+  "id": "packet-018",
+  "group": "Mixed topics (from the practice packet)",
+  "category": "Stream Erosion",
+  "question": "The type of stream erosion in which collapsing bubbles create shock waves that help wear away channel walls is called what?",
+  "options": [
+   "Cavitation",
+   "Abrasion",
+   "Hydraulic action",
+   "Solution"
+  ]
+ },
+ {
+  "id": "packet-019",
+  "group": "Mixed topics (from the practice packet)",
+  "category": "Early American Politics",
+  "question": "Aaron Burr’s political ambitions were twice thwarted by the same rival — first in the 1800 presidential contest, then in an 1804 New York governor’s race. Who was the rival?",
+  "options": [
+   "Alexander Hamilton",
+   "Thomas Jefferson",
+   "James Madison",
+   "John Adams"
+  ]
+ },
+ {
+  "id": "packet-020",
+  "group": "Mixed topics (from the practice packet)",
+  "category": "Ancient Peoples",
+  "question": "The Etruscans were an ancient people named for the region they settled on which peninsula?",
+  "options": [
+   "Italian Peninsula",
+   "Iberian Peninsula",
+   "Balkan Peninsula",
+   "Anatolian Peninsula"
+  ]
+ },
+ {
+  "id": "packet-021",
+  "group": "Mixed topics (from the practice packet)",
+  "category": "World War I",
+  "question": "Germany allowed which exiled revolutionary to return to Russia in 1917, hoping to further destabilize the country?",
+  "options": [
+   "Vladimir Lenin",
+   "Leon Trotsky",
+   "Joseph Stalin",
+   "Karl Marx"
+  ]
+ },
+ {
+  "id": "packet-022",
+  "group": "Mixed topics (from the practice packet)",
+  "category": "Lighting Technology",
+  "question": "Fluorescent lighting works by absorbing energy from what type of light and re-emitting it as visible light?",
+  "options": [
+   "Ultraviolet light",
+   "Infrared light",
+   "X-rays",
+   "Microwaves"
+  ]
+ },
+ {
+  "id": "packet-023",
+  "group": "Mixed topics (from the practice packet)",
+  "category": "Mineral Deposits",
+  "question": "Dense, chemically inert minerals that resist weathering often collect in what kind of alluvial deposit?",
+  "options": [
+   "Placer deposits",
+   "Evaporite deposits",
+   "Igneous deposits",
+   "Sedimentary basins"
+  ]
+ },
+ {
+  "id": "packet-024",
+  "group": "Mixed topics (from the practice packet)",
+  "category": "Body Disorders",
+  "question": "Acute renal failure causes which organs to cease functioning?",
+  "options": [
+   "Kidneys",
+   "Lungs",
+   "Liver",
+   "Pancreas"
+  ]
+ },
+ {
+  "id": "packet-025",
+  "group": "Mixed topics (from the practice packet)",
+  "category": "Averages",
+  "question": "What is the average of all the integers from 19 to 41, inclusive?",
+  "options": [
+   "30",
+   "29",
+   "31",
+   "32"
+  ]
+ },
+ {
+  "id": "packet-026",
+  "group": "Mixed topics (from the practice packet)",
+  "category": "Logical Fallacies",
+  "question": "Restating a claim as its own proof — e.g., “begging the question is fallacious, therefore to beg the question is to argue fallaciously” — is an example of what kind of reasoning?",
+  "options": [
+   "Circular reasoning",
+   "Straw man",
+   "False dilemma",
+   "Slippery slope"
+  ]
+ },
+ {
+  "id": "packet-027",
+  "group": "Mixed topics (from the practice packet)",
+  "category": "Dystopian Literature",
+  "question": "In George Orwell’s “1984,” Winston Smith works at the ministry that rewrites history to fit party doctrine. What is it called?",
+  "options": [
+   "Ministry of Truth",
+   "Ministry of Peace",
+   "Ministry of Love",
+   "Ministry of Plenty"
+  ]
+ },
+ {
+  "id": "packet-028",
+  "group": "Mixed topics (from the practice packet)",
+  "category": "Volcanic Activity",
+  "question": "Pea-sized pyroclastic fragments ejected from a volcano are known by what term?",
+  "options": [
+   "Cinders",
+   "Lapilli",
+   "Volcanic bombs",
+   "Ash"
+  ]
+ },
+ {
+  "id": "packet-029",
+  "group": "Mixed topics (from the practice packet)",
+  "category": "World War II",
+  "question": "Just a week after signing a nonaggression pact with the Soviet Union, Germany invaded which country in 1939, starting the European war?",
+  "options": [
+   "Poland",
+   "Czechoslovakia",
+   "France",
+   "Belgium"
+  ]
+ },
+ {
+  "id": "packet-030",
+  "group": "Mixed topics (from the practice packet)",
+  "category": "Etymology",
+  "question": "The English words “confetti,” “fiasco,” and “regatta” were all borrowed from which language?",
+  "options": [
+   "Italian",
+   "Spanish",
+   "French",
+   "Portuguese"
+  ]
+ },
+ {
+  "id": "art-001",
+  "group": "Art",
+  "category": "Art",
+  "question": "Pablo Picasso is most often associated with which art movement?",
+  "options": [
+   "Cubism",
+   "Impressionism",
+   "Abstract Expressionism",
+   "Dada"
+  ]
+ },
+ {
+  "id": "art-002",
+  "group": "Art",
+  "category": "Art",
+  "question": "Salvador Dali is most often associated with which art movement?",
+  "options": [
+   "Surrealism",
+   "Post-Impressionism",
+   "Pop Art",
+   "Baroque"
+  ]
+ },
+ {
+  "id": "art-003",
+  "group": "Art",
+  "category": "Art",
+  "question": "Jackson Pollock is most often connected to which art movement?",
+  "options": [
+   "Abstract Expressionism",
+   "Impressionism",
+   "Post-Impressionism",
+   "Pop Art"
+  ]
+ },
+ {
+  "id": "art-004",
+  "group": "Art",
+  "category": "Art",
+  "question": "The Dada art movement began in which city?",
+  "options": [
+   "Zurich, Switzerland",
+   "Berlin, Germany",
+   "New York, USA",
+   "Tokyo, Japan"
+  ]
+ },
+ {
+  "id": "art-005",
+  "group": "Art",
+  "category": "Art",
+  "question": "The Dadaist began as a group of artists protesting what human event?",
+  "options": [
+   "World War I",
+   "World War II",
+   "Climate Change",
+   "Women’s Suffrage"
+  ]
+ },
+ {
+  "id": "art-006",
+  "group": "Art",
+  "category": "Art",
+  "question": "The popularity of The Mona Lisa is often tied to:",
+  "options": [
+   "Being stolen from the Louvre",
+   "The last painting by Rembrandt",
+   "The first Impressionist painting",
+   "Having been owned by Marie Antoinette"
+  ]
+ },
+ {
+  "id": "art-007",
+  "group": "Art",
+  "category": "Art",
+  "question": "What body part did Vincent Van Gogh send to a woman to profess his love for her?",
+  "options": [
+   "An ear",
+   "A finger",
+   "A toe",
+   "A bone fragment from his hip"
+  ]
+ },
+ {
+  "id": "art-008",
+  "group": "Art",
+  "category": "Art",
+  "question": "Henri Rousseau is most often associated with which art movement?",
+  "options": [
+   "Post impressionism",
+   "Minimalism",
+   "Realism",
+   "Pointillism"
+  ]
+ },
+ {
+  "id": "art-009",
+  "group": "Art",
+  "category": "Art",
+  "question": "Which of the following individuals was rejected from art school before leading a country?",
+  "options": [
+   "Adolf Hitler",
+   "Joseph Stalin",
+   "Winston Churchill",
+   "Dwight D. Eisenhower"
+  ]
+ },
+ {
+  "id": "art-010",
+  "group": "Art",
+  "category": "Art",
+  "question": "Wassily Kandinsky was a well-known Russian artist whose paintings were rejected by Stalin because:",
+  "options": [
+   "They were said to be bourgeoisie art",
+   "They were created in Germany",
+   "They lacked originality",
+   "They did not focus on the agricultural traditions of Russia"
+  ]
+ },
+ {
+  "id": "art-011",
+  "group": "Art",
+  "category": "Art",
+  "question": "Judy Chicago created which masterpiece to celebrate famous women throughout history?",
+  "options": [
+   "The Dinner Party",
+   "Lady Liberty Leading the People",
+   "Olympia",
+   "American Gothic"
+  ]
+ },
+ {
+  "id": "art-012",
+  "group": "Art",
+  "category": "Art",
+  "question": "American Gothic portrays a man holding a pitchfork and his:",
+  "options": [
+   "Daughter",
+   "Sister",
+   "Wife",
+   "Mother"
+  ]
+ },
+ {
+  "id": "art-013",
+  "group": "Art",
+  "category": "Art",
+  "question": "Diego Rivera, a renowned muralist from Mexico, painted what mural at the entrance of the Detroit Institute of Arts?",
+  "options": [
+   "Detroit Industry Murals",
+   "The Founding of the Automobile",
+   "The History of the Great Lakes and its People",
+   "The Sinking of the Edmund Fitzgerald"
+  ]
+ },
+ {
+  "id": "art-014",
+  "group": "Art",
+  "category": "Art",
+  "question": "What was the name of Andy Warhol’s New York City studio?",
+  "options": [
+   "The Factory",
+   "The Pop Art Collective",
+   "The Happening",
+   "The Village"
+  ]
+ },
+ {
+  "id": "art-015",
+  "group": "Art",
+  "category": "Art",
+  "question": "What painting did Pablo Picasso create to memorialize the Spanish Civil War of 1936-1939?",
+  "options": [
+   "Guernica",
+   "The Kiss",
+   "The Old Guitarist",
+   "Three Musicians"
+  ]
+ },
+ {
+  "id": "art-016",
+  "group": "Art",
+  "category": "Art",
+  "question": "Eva Hesse is best known for her work in what medium?",
+  "options": [
+   "Textiles",
+   "Paint",
+   "Oil Pastels",
+   "Ceramics"
+  ]
+ },
+ {
+  "id": "art-017",
+  "group": "Art",
+  "category": "Art",
+  "question": "Bill Viola is best known for his work with which medium?",
+  "options": [
+   "Video",
+   "Sounds waves",
+   "Paper mache",
+   "Silicon"
+  ]
+ },
+ {
+  "id": "art-018",
+  "group": "Art",
+  "category": "Art",
+  "question": "Man Ray is best known for his work in which medium?",
+  "options": [
+   "Photography",
+   "Clay",
+   "Marble",
+   "Oil paint"
+  ]
+ },
+ {
+  "id": "art-019",
+  "group": "Art",
+  "category": "Art",
+  "question": "Who was Gala Dali married to before marrying Salvador Dali?",
+  "options": [
+   "Paul Eluard",
+   "Marcel Duchamp",
+   "Hugo Ball",
+   "Sophie Taeuber"
+  ]
+ },
+ {
+  "id": "art-020",
+  "group": "Art",
+  "category": "Art",
+  "question": "What art school were Paul Klee and Wassily Kandinsky connected to prior to World War II?",
+  "options": [
+   "Bauhaus",
+   "Frankfurt School",
+   "Birmingham School",
+   "Royal College of Art"
+  ]
+ },
+ {
+  "id": "art-021",
+  "group": "Art",
+  "category": "Art",
+  "question": "Which is the oldest art museum in the US?",
+  "options": [
+   "Pennsylvania Academy of the Fine Arts",
+   "Chicago Institute of Art",
+   "Guggenheim Museum",
+   "Whitney Museum"
+  ]
+ },
+ {
+  "id": "art-022",
+  "group": "Art",
+  "category": "Art",
+  "question": "Many people might refer to Marcel Duchamps The Fountain as a:",
+  "options": [
+   "Bathroom urinal",
+   "Drinking fountain",
+   "Soda dispenser",
+   "Kitchen Sink"
+  ]
+ },
+ {
+  "id": "art-023",
+  "group": "Art",
+  "category": "Art",
+  "question": "The technique of glassblowing was founded in:",
+  "options": [
+   "The Palestinian region around 50 BC",
+   "Athens, Greece around 400 BC",
+   "Jerusalem around 50 AD",
+   "Nicaea around 400 AD"
+  ]
+ },
+ {
+  "id": "art-024",
+  "group": "Art",
+  "category": "Art",
+  "question": "Gold is often used to make what color of glass?",
+  "options": [
+   "Pink",
+   "Yellow",
+   "Blue",
+   "Green"
+  ]
+ },
+ {
+  "id": "art-025",
+  "group": "Art",
+  "category": "Art",
+  "question": "Who was the German-born artist who used surveillance technology in his artwork such as Not a Model for Big Brother Spy Cycle?",
+  "options": [
+   "Dieter Froese",
+   "Albrecht Dürer",
+   "Emil Nolde",
+   "Otto Dix"
+  ]
+ },
+ {
+  "id": "sports-001",
+  "group": "Sports",
+  "category": "Sports",
+  "question": "What was Babe Ruth’s middle name?",
+  "options": [
+   "Herman",
+   "George",
+   "Fredrick",
+   "Horace"
+  ]
+ },
+ {
+  "id": "sports-002",
+  "group": "Sports",
+  "category": "Sports",
+  "question": "What year did Bill Willis, Marion Motley, Kenny Washington, and Woody Strode break the color barrier in American professional football?",
+  "options": [
+   "1946",
+   "1947",
+   "1933",
+   "1951"
+  ]
+ },
+ {
+  "id": "sports-003",
+  "group": "Sports",
+  "category": "Sports",
+  "question": "Which was the first AFL team to win a Super Bowl?",
+  "options": [
+   "New York Jets",
+   "Baltimore Colts",
+   "Cleveland Browns",
+   "Kansas City Chiefs"
+  ]
+ },
+ {
+  "id": "sports-004",
+  "group": "Sports",
+  "category": "Sports",
+  "question": "When was the last Super Bowl to feature a team from the AFL and the NFL?",
+  "options": [
+   "1970",
+   "1969",
+   "2000",
+   "2026"
+  ]
+ },
+ {
+  "id": "sports-005",
+  "group": "Sports",
+  "category": "Sports",
+  "question": "Which company was the first to pay $1,000,000 for a Super Bowl advertisement?",
+  "options": [
+   "Anheuser-Busch",
+   "Porsche",
+   "Doritos",
+   "McDonalds"
+  ]
+ },
+ {
+  "id": "sports-006",
+  "group": "Sports",
+  "category": "Sports",
+  "question": "What years did the All-American Girls Professional Baseball League operate in the United States?",
+  "options": [
+   "1943-1954",
+   "1915-1925",
+   "1929-1939",
+   "1970-1982"
+  ]
+ },
+ {
+  "id": "sports-007",
+  "group": "Sports",
+  "category": "Sports",
+  "question": "Where were the first modern day Olympics held?",
+  "options": [
+   "Athens, Greece",
+   "New York, United States",
+   "Paris, France",
+   "London, UK"
+  ]
+ },
+ {
+  "id": "sports-008",
+  "group": "Sports",
+  "category": "Sports",
+  "question": "Who was the German athlete Jesse Owens defeated in the long jump in 1936 during the Olympics held in Berlin, Germany?",
+  "options": [
+   "Luz Long",
+   "Julius Hirsch",
+   "Erich Gottlieb Eliskases",
+   "Gustav Felix Flatow"
+  ]
+ },
+ {
+  "id": "sports-009",
+  "group": "Sports",
+  "category": "Sports",
+  "question": "Who is the Stanley Cup named after?",
+  "options": [
+   "Lord Stanley of Preston",
+   "Stanley Tucci",
+   "Stanley Livingston",
+   "Stanley Fafara"
+  ]
+ },
+ {
+  "id": "sports-010",
+  "group": "Sports",
+  "category": "Sports",
+  "question": "Which two colleges played the first intercollegiate football game?",
+  "options": [
+   "Princeton and Rutgers",
+   "Army and Navy",
+   "Notre Dame and Michigan",
+   "Harvard and Yale"
+  ]
+ },
+ {
+  "id": "sports-011",
+  "group": "Sports",
+  "category": "Sports",
+  "question": "Which team won the first modern day World Series in baseball?",
+  "options": [
+   "Boston Americans",
+   "Pittsburgh Pirates",
+   "New York Yankees",
+   "Brooklyn Dodgers"
+  ]
+ },
+ {
+  "id": "sports-012",
+  "group": "Sports",
+  "category": "Sports",
+  "question": "The 1927 New York Yankees boasted a batting lineup referred to as Murders’ Row. This included Earle Combs, Mark Koenig, Babe Ruth, Bob Meusel, Tony Lazzeri, and",
+  "options": [
+   "Lou Gehrig",
+   "Mickey Mantle",
+   "Joe DiMaggio",
+   "Ted Williams"
+  ]
+ },
+ {
+  "id": "sports-013",
+  "group": "Sports",
+  "category": "Sports",
+  "question": "Which athlete has won the most Olympic medals?",
+  "options": [
+   "Michael Phelps",
+   "Katie Ledecky",
+   "Boris Shakhin",
+   "Simone Biles"
+  ]
+ },
+ {
+  "id": "sports-014",
+  "group": "Sports",
+  "category": "Sports",
+  "question": "In 1968, pitching dominated American baseball due to players such as Bob Gibson, leading to what change in 1969?",
+  "options": [
+   "Lowering the pitching mound from 15 to 10 inches above home plate",
+   "Moving the pitching mound from 55 to 60.5 feet further away from home plate",
+   "Moving outfield fences from 250 feet to 310 feet",
+   "Changing from two strikes for a strikeout to three strikes for a strikeout"
+  ]
+ },
+ {
+  "id": "sports-015",
+  "group": "Sports",
+  "category": "Sports",
+  "question": "What is the height of a basketball net in professional US basketball?",
+  "options": [
+   "Ten feet",
+   "Eight feet",
+   "Nine feet",
+   "Eleven feet"
+  ]
+ },
+ {
+  "id": "sports-016",
+  "group": "Sports",
+  "category": "Sports",
+  "question": "Which country has won the most men’s World Cup titles in soccer?",
+  "options": [
+   "Brazil",
+   "United States",
+   "England",
+   "France"
+  ]
+ },
+ {
+  "id": "sports-017",
+  "group": "Sports",
+  "category": "Sports",
+  "question": "Which country has won the most women’s World Cup titles in soccer?",
+  "options": [
+   "Unites States",
+   "Brazil",
+   "Japan",
+   "Australia"
+  ]
+ },
+ {
+  "id": "sports-018",
+  "group": "Sports",
+  "category": "Sports",
+  "question": "When did both men and women curling teams become officially recognized as Olympic sports?",
+  "options": [
+   "1998",
+   "1960",
+   "1972",
+   "1984"
+  ]
+ },
+ {
+  "id": "sports-019",
+  "group": "Sports",
+  "category": "Sports",
+  "question": "What year was the Miracle on Ice, when the US men’s hockey team defeated the USSR men’s hockey team?",
+  "options": [
+   "1984",
+   "1964",
+   "1954",
+   "2004"
+  ]
+ },
+ {
+  "id": "sports-020",
+  "group": "Sports",
+  "category": "Sports",
+  "question": "In which sport is there both a bowler and a wicket?",
+  "options": [
+   "Cricket",
+   "Billiards",
+   "Bocci",
+   "Jai-Alai"
+  ]
+ },
+ {
+  "id": "sports-021",
+  "group": "Sports",
+  "category": "Sports",
+  "question": "Which sport is often referred to as “The Fastest Game in the World?”",
+  "options": [
+   "Jai-Alai",
+   "NASCAR",
+   "Pickleball",
+   "Boxcar racing"
+  ]
+ },
+ {
+  "id": "sports-022",
+  "group": "Sports",
+  "category": "Sports",
+  "question": "In what state was pickleball invented?",
+  "options": [
+   "Washington",
+   "Florida",
+   "California",
+   "New York"
+  ]
+ },
+ {
+  "id": "sports-023",
+  "group": "Sports",
+  "category": "Sports",
+  "question": "In what sport would you find the term ‘dinger?”",
+  "options": [
+   "Baseball",
+   "Football",
+   "Soccer",
+   "Ping Pong"
+  ]
+ },
+ {
+  "id": "sports-024",
+  "group": "Sports",
+  "category": "Sports",
+  "question": "The Toledo Mud Hens are the triple A affiliate of what major league baseball team?",
+  "options": [
+   "Detroit Tigers",
+   "New York Yankees",
+   "Cleveland Guardians",
+   "Washington Nationals"
+  ]
+ },
+ {
+  "id": "sports-025",
+  "group": "Sports",
+  "category": "Sports",
+  "question": "In what sport might you hear the term ‘nutmeg?’",
+  "options": [
+   "Soccer",
+   "American football",
+   "Badminton",
+   "Beach Volleyball"
+  ]
+ },
+ {
+  "id": "music-001",
+  "group": "Music",
+  "category": "Music",
+  "question": "Who composed 4’33” which consists of four minutes and 33 seconds of silence?",
+  "options": [
+   "John Cage",
+   "John Lennon",
+   "John Mellencamp",
+   "Johann Sebastian Bach"
+  ]
+ },
+ {
+  "id": "music-002",
+  "group": "Music",
+  "category": "Music",
+  "question": "Who was not part of the original Beatles?",
+  "options": [
+   "Ringo Starr",
+   "John Lennon",
+   "Paul McCartney",
+   "Pete Best"
+  ]
+ },
+ {
+  "id": "music-003",
+  "group": "Music",
+  "category": "Music",
+  "question": "What was the name of the androgynous alien created by David Bowie?",
+  "options": [
+   "Ziggy Stardust",
+   "Flash Gordon",
+   "Zippy Zipline",
+   "Felonious Fastidious"
+  ]
+ },
+ {
+  "id": "music-004",
+  "group": "Music",
+  "category": "Music",
+  "question": "Which musician is not memorialized in Don McLean’s American Pie?",
+  "options": [
+   "Stevie Ray Vaughan",
+   "Jiles Perry Richardson, Jr.",
+   "Ritchie Valens",
+   "Buddy Holly"
+  ]
+ },
+ {
+  "id": "music-005",
+  "group": "Music",
+  "category": "Music",
+  "question": "Which musician was known as The Big Bopper?",
+  "options": [
+   "Jiles Perry Richardson, Jr.",
+   "Buddy Holly",
+   "Jerry Lee Lewis",
+   "Elvis Presley"
+  ]
+ },
+ {
+  "id": "music-006",
+  "group": "Music",
+  "category": "Music",
+  "question": "Which was Elvis Presley’s first pop song to reach number one on Billboard’s pop singles?",
+  "options": [
+   "Heartbreak Hotel",
+   "Hound Dog",
+   "Blue Suede Shoes",
+   "Love Me Tender"
+  ]
+ },
+ {
+  "id": "music-007",
+  "group": "Music",
+  "category": "Music",
+  "question": "What year did the first commercial raves begin in London?",
+  "options": [
+   "1987",
+   "1990",
+   "1992",
+   "1995"
+  ]
+ },
+ {
+  "id": "music-008",
+  "group": "Music",
+  "category": "Music",
+  "question": "The Ramones are often thought of as the first commercially influential punk band, coming together in 1974 and releasing their first album in 1976. Members of the Ramones often point to what Detroit band as inspiration for their sound?",
+  "options": [
+   "Death",
+   "Grand Funk Railroad",
+   "MC5",
+   "Rare Earth"
+  ]
+ },
+ {
+  "id": "music-009",
+  "group": "Music",
+  "category": "Music",
+  "question": "What was the first Number One record in the US for the Rolling Stones?",
+  "options": [
+   "(I Can’t Get No) Satisfaction",
+   "Sympathy for the Devil",
+   "It’s All Over Now",
+   "Shattered"
+  ]
+ },
+ {
+  "id": "music-010",
+  "group": "Music",
+  "category": "Music",
+  "question": "Jack White of White Stripes fame co-owns which baseball bat company?",
+  "options": [
+   "Warstic",
+   "Louisville Slugger",
+   "Old Hickory",
+   "Adirondack"
+  ]
+ },
+ {
+  "id": "music-011",
+  "group": "Music",
+  "category": "Music",
+  "question": "Who was named Rookie of the Year for a semi-professional baseball league before turning to a career in music?",
+  "options": [
+   "George Thorogood",
+   "Sammy Hagar",
+   "David Lee Roth",
+   "Marvin Gaye"
+  ]
+ },
+ {
+  "id": "music-012",
+  "group": "Music",
+  "category": "Music",
+  "question": "Why did Julio Iglesias give up a soccer career for music?",
+  "options": [
+   "Car accident",
+   "Parental pressure",
+   "Was discovered by a talent scout while singing Spain’s National Anthem",
+   "Had a child and decided soccer was too dangerous"
+  ]
+ },
+ {
+  "id": "music-013",
+  "group": "Music",
+  "category": "Music",
+  "question": "What sport did Sean Paul play before turning to rap in his native Jamaica?",
+  "options": [
+   "Water polo",
+   "Soccer",
+   "Cricket",
+   "Basketball"
+  ]
+ },
+ {
+  "id": "music-014",
+  "group": "Music",
+  "category": "Music",
+  "question": "Which TV show led to a rise in popularity of country music?",
+  "options": [
+   "Hee Haw",
+   "The Smothers Brothers Comedy Hour",
+   "I Love Lucy",
+   "The Little Rascals"
+  ]
+ },
+ {
+  "id": "music-015",
+  "group": "Music",
+  "category": "Music",
+  "question": "Whose father was a professional boxer?",
+  "options": [
+   "Sammy Hagar",
+   "Joan Jett",
+   "Rod Stewart",
+   "Charley Pride"
+  ]
+ },
+ {
+  "id": "music-016",
+  "group": "Music",
+  "category": "Music",
+  "question": "Which musician played Feyd-Rautha Harkonnen in the 1984 movie adaption of Dune?",
+  "options": [
+   "Sting",
+   "David Bowie",
+   "David Lee Roth",
+   "Ozzy Osbourne"
+  ]
+ },
+ {
+  "id": "music-017",
+  "group": "Music",
+  "category": "Music",
+  "question": "Which musician plays Jack Sparrow’s (Johnny Depp) father in the Pirates of the Caribbean movie franchise?",
+  "options": [
+   "Keith Richards",
+   "Mick Jagger",
+   "Eddie Money",
+   "Billy Idol"
+  ]
+ },
+ {
+  "id": "music-018",
+  "group": "Music",
+  "category": "Music",
+  "question": "The Sugarhill Gang is often referred to as the first commercially successful rap group. What year was their first single, “Rapper’s Delight,” released?",
+  "options": [
+   "1979",
+   "1982",
+   "1985",
+   "1987"
+  ]
+ },
+ {
+  "id": "music-019",
+  "group": "Music",
+  "category": "Music",
+  "question": "The animated series Mulligan features an alien – Axatrax – from a planet that shares a name with which singer?",
+  "options": [
+   "Cardi B",
+   "Cher",
+   "Beyoncé",
+   "Jay-Z"
+  ]
+ },
+ {
+  "id": "music-020",
+  "group": "Music",
+  "category": "Music",
+  "question": "Which of the following is the Canadian leader in record sales?",
+  "options": [
+   "Celine Dion",
+   "Shania Twain",
+   "Drake",
+   "Dead South"
+  ]
+ },
+ {
+  "id": "music-021",
+  "group": "Music",
+  "category": "Music",
+  "question": "What was the first music video played on MTV in the United States?",
+  "options": [
+   "Video Killed the Radio Star by The Buggles",
+   "Relax by Frankie Goes to Hollywood",
+   "Panama by Van Halen",
+   "Howling at the Moon (Sha-la-la) by The Ramones"
+  ]
+ },
+ {
+  "id": "music-022",
+  "group": "Music",
+  "category": "Music",
+  "question": "Which of the following musicians is not part of the infamous 27 Club?",
+  "options": [
+   "Hank Williams",
+   "Janis Joplin",
+   "Amy Winehouse",
+   "Kurt Cobain"
+  ]
+ },
+ {
+  "id": "music-023",
+  "group": "Music",
+  "category": "Music",
+  "question": "Grunge is often tied to which major US city?",
+  "options": [
+   "Seattle",
+   "Chicago",
+   "Portland",
+   "Atlanta"
+  ]
+ },
+ {
+  "id": "music-024",
+  "group": "Music",
+  "category": "Music",
+  "question": "What stage name did Mark Wahlberg use while pursuing a musical career?",
+  "options": [
+   "Marky Mark",
+   "Mystic Mark",
+   "Mark the Shark",
+   "Mark Maniac"
+  ]
+ },
+ {
+  "id": "music-025",
+  "group": "Music",
+  "category": "Music",
+  "question": "What college town is often tied to art-punk music?",
+  "options": [
+   "Athens, GA",
+   "Lawrence, KS",
+   "Tucson, AZ",
+   "Davis, CA"
+  ]
+ }
+]
